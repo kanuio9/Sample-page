@@ -1,2 +1,2 @@
 # Sample-page
-Sample page to run some operations 
+Sample page to run some operation.
